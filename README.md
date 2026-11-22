@@ -64,7 +64,7 @@ npm run start
 
 ## 📬 Contact & Links
 
-- **Portfolio**: [himanshu-singh](himanshu-singh-resume.vercel.app)
+- **Portfolio**: [himanshu-singh.dev](https://github.com/HIMANSHU-129/my-portfolio)
 - **LinkedIn**: [linkedin.com/in/profile-himanshu-singh](https://www.linkedin.com/in/profile-himanshu-singh/)
 - **Email**: [himanshuthakur12907@gmail.com](mailto:himanshuthakur12907@gmail.com)
 - **GitHub**: [@HIMANSHU-129](https://github.com/HIMANSHU-129)
